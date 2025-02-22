@@ -79,4 +79,4 @@ CALL GenerateSampleData();
 
 This project is licensed under the MIT License.
 
-**Note:** This project is currently under development and improvements are ongoing.
+**Note:** This project is currently under development and improvements are ongoing. The tech stack used for building this project includes **MySQL, Redis, Spring Boot, AWS, and Hibernate**.
